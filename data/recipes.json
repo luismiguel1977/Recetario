@@ -1,30 +1,16 @@
 [
   {
-    "title": "48-ALLIPEBRE - ESPARDENYA",
-    "slug": "48-allipebre-espardenya",
-    "category": "otros",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/48-allipebre-espardenya.jpg",
+    "title": "Ajo Blanco",
+    "slug": "ajo-blanco",
+    "category": "sopas-y-cremas",
+    "image": "",
     "ingredients": [
-      "ANCHORSE",
-      "ENSALADA DE",
-      "RELLENOS",
-      "い",
-      "SOPA DE PEΡΙΝΟ",
-      "ZANA",
-      "ZANA"
+      "GR DE PAN MOSADO 200GR",
+      "ALMENDRAS, 3 ASOS, 1 CUHARADA DE VINAGRE",
+      "/2 VASO DE ACEITE."
     ],
     "preparation": [
-      "PALITOS DE ANCHOAS - ROLLOS DE PAN BIMBOY",
-      "BACALAO CON SALSA DE PIMIENTOS VERDES - TORNILLOS-",
-      "COCA DE VERDURAS Y SOBRASADA-PIMIENTOS PIQUILLO",
-      "HOSALDRE CON MORCILLAY PERA-DE MORCILLA BURGOS",
-      "ENSALADA DE PATATAS - ENSALADA DE PECHUGRY MANZ",
-      "SOPA DE SANDIA-ASO BLANCO-SOPA DE MELON CON GAMBA",
-      "PASTEL DE ALCACHOFAS-PASTEL DE TURRON",
-      "TARTA DE LIMON - FLAN DE ALMENDRA",
-      "EMPANADILAS DE MANZANA YAZAR-PASTEL DE PIÑA",
-      "TARTA DE ARANPANOS - COCA DE LLANDA",
-      "CABEZA DE LOMO CON NATA"
+      "PONER TODO EN LA BATIDORA BATIA BIEN FINO, SERVIR MUI FRIO CON SAMON SERRANO PICADITO POR ENCIMA."
     ]
   },
   {
@@ -48,7 +34,7 @@
     "title": "ALETA DEI TERNERA RELLENA",
     "slug": "aleta-dei-ternera-rellena",
     "category": "carnes",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/aleta-dei-ternera-rellena.jpg",
+    "image": "",
     "ingredients": [
       "IK DE ALETA 1/4 CANE PICADAL",
       "LONGANIZAS, A CEBOLLAS, 3 ASOS, PIMIENTA, 2",
@@ -73,10 +59,38 @@
     ]
   },
   {
+    "title": "Allipebre - Espardenya",
+    "slug": "allipebre-espardenya",
+    "category": "pescados-y-mariscos",
+    "image": "",
+    "ingredients": [
+      "ANCHORSE",
+      "ENSALADA DE",
+      "RELLENOS",
+      "い",
+      "SOPA DE PEΡΙΝΟ",
+      "ZANA",
+      "ZANA"
+    ],
+    "preparation": [
+      "PALITOS DE ANCHOAS - ROLLOS DE PAN BIMBOY",
+      "BACALAO CON SALSA DE PIMIENTOS VERDES - TORNILLOS-",
+      "COCA DE VERDURAS Y SOBRASADA-PIMIENTOS PIQUILLO",
+      "HOSALDRE CON MORCILLAY PERA-DE MORCILLA BURGOS",
+      "ENSALADA DE PATATAS - ENSALADA DE PECHUGRY MANZ",
+      "SOPA DE SANDIA-ASO BLANCO-SOPA DE MELON CON GAMBA",
+      "PASTEL DE ALCACHOFAS-PASTEL DE TURRON",
+      "TARTA DE LIMON - FLAN DE ALMENDRA",
+      "EMPANADILAS DE MANZANA YAZAR-PASTEL DE PIÑA",
+      "TARTA DE ARANPANOS - COCA DE LLANDA",
+      "CABEZA DE LOMO CON NATA"
+    ]
+  },
+  {
     "title": "ARROZ CON BERBERECHOS",
     "slug": "arroz-con-berberechos",
     "category": "arroces-y-pastas",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/arroz-con-berberechos.jpg",
+    "image": "",
     "ingredients": [
       "BOTE DE GULSANTES",
       "BOTE DE OLIVAS SIN HUESOS",
@@ -93,24 +107,10 @@
     ]
   },
   {
-    "title": "ASO BLANCO",
-    "slug": "aso-blanco",
-    "category": "sopas-y-cremas",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/aso-blanco.jpg",
-    "ingredients": [
-      "GR DE PAN MOSADO 200GR",
-      "ALMENDRAS, 3 ASOS, 1 CUHARADA DE VINAGRE",
-      "/2 VASO DE ACEITE."
-    ],
-    "preparation": [
-      "PONER TODO EN LA BATIDORA BATIA BIEN FINO, SERVIR MUI FRIO CON SAMON SERRANO PICADITO POR ENCIMA."
-    ]
-  },
-  {
     "title": "BACALAO",
     "slug": "bacalao",
     "category": "pescados-y-mariscos",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/bacalao.jpg",
+    "image": "",
     "ingredients": [
       "BACALAO, LECHE, HARINA, ASO1",
       "PERESIL, ACEITE, ALBAACA, PIMENTON,"
@@ -120,10 +120,33 @@
     ]
   },
   {
-    "title": "BACALAO CON NARANSAS",
-    "slug": "bacalao-con-naransas",
+    "title": "Bacalao al Horno con Pimentón",
+    "slug": "bacalao-al-horno-con-pimentón",
     "category": "pescados-y-mariscos",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/bacalao-con-naransas.jpg",
+    "image": "",
+    "ingredients": [
+      "PIMENTON AN CHORITO REGAR CON",
+      "ACEITE Y ENEL VINO METER",
+      "\"AL HORNO 15 MINUTOS MAS O MENOS",
+      "MERMELADA DE KAKIS PERS",
+      "G DE XAKIS PELADOY TROCFADOS",
+      "G DE AZUCA Ryvidaos ZUMO DE",
+      "LIMON, CANELA Y CLANVOI 1 VASO",
+      "DE AGUA COCER 45 MINUTOS"
+    ],
+    "preparation": [
+      "SERVIR CON LA SALSA DE",
+      "PIMIENTOS EN EL FONDO DEL PLATO",
+      "EN CIMA EL BACALAO",
+      "TRITURAR CON LA TURMIS UN POCO",
+      "ANTES DE TERMINA LA COCION"
+    ]
+  },
+  {
+    "title": "Bacalao con Naranjas",
+    "slug": "bacalao-con-naranjas",
+    "category": "pescados-y-mariscos",
+    "image": "",
     "ingredients": [
       "G DE MIGAS DE BACALAO DESALADO,2",
       "NARANSAS-Y CEBOLLETA-2 HUEVOS DUROS",
@@ -141,7 +164,7 @@
     "title": "BACALAO CON SALSA VERDE",
     "slug": "bacalao-con-salsa-verde",
     "category": "pescados-y-mariscos",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/bacalao-con-salsa-verde.jpg",
+    "image": "",
     "ingredients": [
       "BACALAO FRESCO & DESALADO-7 KILO",
       "CEBOLLA GRANDE, 5.0.6 PIMIENTOS",
@@ -165,33 +188,10 @@
     ]
   },
   {
-    "title": "BACALAO ESPOLVOREAR CON EL",
-    "slug": "bacalao-espolvorear-con-el",
-    "category": "pescados-y-mariscos",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/bacalao-espolvorear-con-el.jpg",
-    "ingredients": [
-      "PIMENTON AN CHORITO REGAR CON",
-      "ACEITE Y ENEL VINO METER",
-      "\"AL HORNO 15 MINUTOS MAS O MENOS",
-      "MERMELADA DE KAKIS PERS",
-      "G DE XAKIS PELADOY TROCFADOS",
-      "G DE AZUCA Ryvidaos ZUMO DE",
-      "LIMON, CANELA Y CLANVOI 1 VASO",
-      "DE AGUA COCER 45 MINUTOS"
-    ],
-    "preparation": [
-      "SERVIR CON LA SALSA DE",
-      "PIMIENTOS EN EL FONDO DEL PLATO",
-      "EN CIMA EL BACALAO",
-      "TRITURAR CON LA TURMIS UN POCO",
-      "ANTES DE TERMINA LA COCION"
-    ]
-  },
-  {
     "title": "BERENJENAS CON QUESO AZUL",
     "slug": "berenjenas-con-queso-azul",
     "category": "verduras-y-legumbres",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/berenjenas-con-queso-azul.jpg",
+    "image": "",
     "ingredients": [
       "BERENSENAS, CARLOTAS, ASOS",
       "PIMIENTO VERDE, CARVER PICADA",
@@ -218,7 +218,7 @@
     "title": "BIZCOCHO DE CHOCOLATE",
     "slug": "bizcocho-de-chocolate",
     "category": "postres-y-dulces",
-    "image": "/home/bob/.openclaw/workspace/recetario/fotos/bizcocho-de-chocolate.jpg",
+    "image": "",
     "ingredients": [
       "CUCHARADAS DE MANTEQUILLA",
       "DE AZUCAR, 150 DE HARINA, 2 CUCHARADAS",
@@ -255,33 +255,6 @@
       "EN UN BOL PONER",
       "QUE ABREMOS DERETIDO EN EL MICRO AGREGAR",
       "BATIRLO TODO HECHAR EN UN MOLDE UINTADO DE MANTEQUILLA Y HARINA AL HORNO 35040 MINUTOS A 780"
-    ]
-  },
-  {
-    "title": "BRUNKEI",
-    "slug": "brunkei",
-    "category": "otros",
-    "image": "",
-    "ingredients": [
-      "HUEVOS",
-      "DE AZUCAR, Y CHORO DE MIEL",
-      "RAYADURA DE 1 NARANIA",
-      "/2 LITRO DE LECHE, CARMELO",
-      "QUIDO, CURASANES QUETENGAMOS",
-      "DUROS O ENSAIAHDAS O CUAL",
-      "QUIER OTRA COSA INCLUSO PAN",
-      "O 3 PUÑADOS DE PASAS O OTRO",
-      "FRUTA PASA QUE NOSGUSTE",
-      "UNA CAPA DE CARES SAVES CORTA",
-      "DO ARODAIASY OTRA DE PASAS",
-      "OTRA DECURASANES Y OTRA DE",
-      "PASAS ACONTINUACION ECHAR",
-      "EL RESTO DE INGREDIENTES QUE"
-    ],
-    "preparation": [
-      "CARAMELIZAR EL MOLDE POME",
-      "ABRENIOS BATIDO TODOS SUNTOS",
-      "METER AL HORNO AL BAÑO MARIA"
     ]
   },
   {
@@ -561,8 +534,8 @@
     ]
   },
   {
-    "title": "COCA DE SAMON YOR Y QUESO",
-    "slug": "coca-de-samon-yor-y-queso",
+    "title": "Coca de Jamón York y Queso",
+    "slug": "coca-de-jamón-york-y-queso",
     "category": "postres-y-dulces",
     "image": "",
     "ingredients": [
@@ -694,8 +667,25 @@
     ]
   },
   {
-    "title": "COTTEL DE GAMBAS",
-    "slug": "cottel-de-gambas",
+    "title": "CREMA DE AGUACATE",
+    "slug": "crema-de-aguacate",
+    "category": "sopas-y-cremas",
+    "image": "",
+    "ingredients": [
+      "AGUACATES, 2 HUEVOS",
+      "HERVIDOS, ZUMO DE LIMON, SAL, PIMIENTA",
+      "ACEITE"
+    ],
+    "preparation": [
+      "PELA LOS AGUACATES Y LOS HUEVOS PONER",
+      "EN EL VASO PARA TRITURAR Y AGREGAR EL",
+      "ZUMO DE LIMON SAL PIMIENTA ACEITE",
+      "TRITURAR BINEN SERVIR CON TOSTADAS."
+    ]
+  },
+  {
+    "title": "Cóctel de Gambas",
+    "slug": "cóctel-de-gambas",
     "category": "pescados-y-mariscos",
     "image": "",
     "ingredients": [
@@ -712,23 +702,6 @@
     "preparation": [
       "EN UN BOL PONER MAHONESA IR AGREGANDO UN POCO DE ZUMO DE NARANSA, KECHU, SALSA PICANTE, PERRI SA, MANZANA A PADITOS, AGUACATE ADADITOS, GAMBAS COCIDAS A TROCITOS MOVER Y SERVIR EN COPAS O TARRITOS.",
       "DESCONSELAR EL PULPO, HERVIR EL PULPO 20 MINUTOS DES DE QUE EMPIEZA A HERVIR, DESAR ENFRIAR EN EL MISMO AGUA"
-    ]
-  },
-  {
-    "title": "CREMA DE AGUACATE",
-    "slug": "crema-de-aguacate",
-    "category": "sopas-y-cremas",
-    "image": "",
-    "ingredients": [
-      "AGUACATES, 2 HUEVOS",
-      "HERVIDOS, ZUMO DE LIMON, SAL, PIMIENTA",
-      "ACEITE"
-    ],
-    "preparation": [
-      "PELA LOS AGUACATES Y LOS HUEVOS PONER",
-      "EN EL VASO PARA TRITURAR Y AGREGAR EL",
-      "ZUMO DE LIMON SAL PIMIENTA ACEITE",
-      "TRITURAR BINEN SERVIR CON TOSTADAS."
     ]
   },
   {
@@ -828,7 +801,7 @@
     "title": "ENSALADA DE ARROZ Y SAMON YOR",
     "slug": "ensalada-de-arroz-y-samon-yor",
     "category": "ensaladas",
-    "image": "file_307",
+    "image": "",
     "ingredients": [
       "ARROZ HERVIDO",
       "GISANTES",
@@ -970,7 +943,7 @@
     "title": "ENSASADA DE ARROZ CON SALSA DE YOGUR.",
     "slug": "ensasada-de-arroz-con-salsa-de-yogur",
     "category": "arroces-y-pastas",
-    "image": "file_302",
+    "image": "",
     "ingredients": [
       "ATUN EN ACEITE",
       "PALITOS DE MAR",
@@ -1132,7 +1105,7 @@
   {
     "title": "FILETES DE PECHUGA DE PAVO RELLENAS",
     "slug": "filetes-de-pechuga-de-pavo-rellenas",
-    "category": "aves",
+    "category": "carnes",
     "image": "",
     "ingredients": [
       "PIQUILLO CORTADOS ENSURIANA UNA",
@@ -1312,7 +1285,7 @@
   {
     "title": "GARBANZOS CON GAMBON Y CALAMARES.",
     "slug": "garbanzos-con-gambon-y-calamares",
-    "category": "verduras-y-legumbres",
+    "category": "pescados-y-mariscos",
     "image": "",
     "ingredients": [
       "CEBOLLA MEDIANA PICADITA",
@@ -1546,7 +1519,7 @@
     "title": "LOMO CON SALSA DE PLATANOS",
     "slug": "lomo-con-salsa-de-platanos",
     "category": "carnes",
-    "image": "file_302",
+    "image": "",
     "ingredients": [
       "SAL",
       "PIMIENTA",
@@ -1569,7 +1542,7 @@
     "title": "LUBINA CON SALSA DE ROMESCO",
     "slug": "lubina-con-salsa-de-romesco",
     "category": "pescados-y-mariscos",
-    "image": "file_302",
+    "image": "",
     "ingredients": [
       "LOMOS DE LUBINA",
       "SAL Y PIMIENTA",
@@ -1877,7 +1850,7 @@
   {
     "title": "NARANSITAS",
     "slug": "naransitas",
-    "category": "postres-y-dulces",
+    "category": "otros",
     "image": "",
     "ingredients": [
       "T/S CARLOTAS, 150 6 AZUCAR",
@@ -2335,8 +2308,8 @@
     ]
   },
   {
-    "title": "SALSA DE CARSOS",
-    "slug": "salsa-de-carsos",
+    "title": "Salsa de Calçots",
+    "slug": "salsa-de-cal-ots",
     "category": "salsas-y-aliños",
     "image": "",
     "ingredients": [
@@ -2459,7 +2432,7 @@
     "title": "SOLOMILLO DE CERDO CON SALSA AGRIDULCE",
     "slug": "solomillo-de-cerdo-con-salsa-agridulce",
     "category": "carnes",
-    "image": "file_302",
+    "image": "",
     "ingredients": [
       "G DE SOLOMILLO DE CERDO, I CEBOLLA",
       "PUERRO, Y ZAWAORIA 12 TOMATES 1256 DE AZUCAR",
